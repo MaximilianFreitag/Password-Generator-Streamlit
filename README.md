@@ -5,7 +5,7 @@ A simple password generator written in python
 
 <p align="center">
     <a href="https://github.com/MaximilianFreitag/birthday_calculator">
-        <img src="https://github.com/MaximilianFreitag/Password-Generator-Streamlit/master/pasword.jpg">
+        <img src="https://github.com/MaximilianFreitag/Password-Generator-Streamlit/blob/master/pasword.jpg">
     </a>
 </p>
 
