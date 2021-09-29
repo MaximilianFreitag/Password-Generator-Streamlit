@@ -169,4 +169,7 @@ st.markdown("<h3 style='text-align: center; color: black;'>                 </h5
 link = '[Just a tiny example app for my Instagram post](https://www.instagram.com/max_mnemo)'
 st.markdown(link, unsafe_allow_html=True)
 
+link = '[Github Repo <3](https://github.com/MaximilianFreitag/Password-Generator-Streamlit)'
+st.markdown(link, unsafe_allow_html=True)
+
 
