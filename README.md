@@ -28,20 +28,20 @@ Test it out yourself ---> [Demo](https://share.streamlit.io/maximilianfreitag/pa
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/MaximilianFreitag/Password-Generator-Streamlit.git
    ```
 
-2. Clone the repo
+2. Pip install streamlit in your terminal
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   pip install streamlit
    ```
-3. Install NPM packages
+3. Change directory into the project
    ```sh
-   npm install
+   cd Password-Generator-Streamlit
    ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
+4. Run the python file with: 
+   ```sh
+   streamlit run 
    ```
 
 
