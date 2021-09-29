@@ -47,7 +47,9 @@ Test it out yourself ---> [Demo](https://share.streamlit.io/maximilianfreitag/pa
 
 Your browser will open up with the project. Now you can change my code in Visual Studio code and it will auto rerun the app as soon as you make adjustments.
 
-
+<br />
+<br />
+<br />
 
 
 
