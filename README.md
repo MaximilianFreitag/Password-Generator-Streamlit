@@ -14,7 +14,7 @@ A simple password generator written in python
 A small app that takes the users prefered password length + his preferences and the app outputs a according password. 
 
 
-Test it out yourself ---> [Demo](https://share.streamlit.io/maximilianfreitag/birthday_calculator/main/birthday_calculator.py)
+Test it out yourself ---> [Demo]https://share.streamlit.io/maximilianfreitag/password-generator-streamlit/pass_gen.py)
 
 
 <br />
