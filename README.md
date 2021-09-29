@@ -24,7 +24,7 @@ Test it out yourself ---> [Demo](https://share.streamlit.io/maximilianfreitag/pa
 
 <!-- GETTING STARTED -->
 ## Getting Started
-`
+
 
 1. Clone the repo
    ```sh
