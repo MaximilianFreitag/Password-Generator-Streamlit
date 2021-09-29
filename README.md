@@ -1,7 +1,6 @@
-# Password-Generator-Streamlit
+## About The Project
 A simple password generator written in python
 
-## About The Project
 <br />
 
 <p align="center">
