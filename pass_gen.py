@@ -12,7 +12,6 @@ st.set_page_config(
         )
 
 
-
 #Display a GIF on top of the app
 st.markdown("![Alt Text](https://media.giphy.com/media/GbCDfM8ZaLaHo4F9Vf/giphy.gif?cid=790b7611452765a1af28cc3489d67553872f96a3af0ed7c0&rid=giphy.gif&ct=g)")
 
@@ -25,7 +24,7 @@ st.markdown("<h5 style='text-align: center; color: black;'>                 </h5
 
 length = st.number_input('How many characters do you want your password to have? (10-100)', min_value=10, max_value=100)
 
-#st.write('The current number is ', number)
+
 st.markdown("<h5 style='text-align: center; color: black;'>                 </h5>", unsafe_allow_html=True)
 
 
@@ -39,7 +38,6 @@ cb3 = st.checkbox('Special Characters ($%?!)')
 
 
 empty = st.empty()
-
 
 
 if cb1 == True:
@@ -64,7 +62,10 @@ if cb1 and cb1 and cb3 == None:
         st.write("Check")
 
 
+        
 all = letters + str(numbers) + symbols
+
+
 
 try:
         temp = _random.sample(all, length)
@@ -85,6 +86,7 @@ try:
         temp4 = _random.sample(all, length)
 except ValueError:
         pass
+
 
 
 
@@ -134,25 +136,10 @@ except ValueError and NameError:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 #i used these lines for additional whitespace between the result and the text boxes
 st.markdown("<h5 style='text-align: center; color: black;'>                 </h5>", unsafe_allow_html=True)
 st.markdown("<h5 style='text-align: center; color: black;'>                 </h5>", unsafe_allow_html=True)
 st.markdown("<h5 style='text-align: center; color: black;'>                 </h5>", unsafe_allow_html=True)
-
-
-
 
 
 
@@ -162,14 +149,11 @@ st.markdown("<h3 style='text-align: center; color: black;'>                 </h5
 
 
 
-
-
-
 #instagram link
 link = '[Just a tiny example app for my Instagram post](https://www.instagram.com/max_mnemo)'
 st.markdown(link, unsafe_allow_html=True)
 
-link = '[Github Repo <3](https://github.com/MaximilianFreitag/Password-Generator-Streamlit)'
+link = '[Github Repo ](https://github.com/MaximilianFreitag/Password-Generator-Streamlit)'
 st.markdown(link, unsafe_allow_html=True)
 
 
