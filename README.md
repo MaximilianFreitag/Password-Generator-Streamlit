@@ -1,5 +1,5 @@
 ## About The Project
-A small app that takes the users prefered password length + his preferences and the app outputs a according password. 
+A small app that takes the users prefered password length + his preferences and the app outputs an according password. 
 
 Test it out yourself ---> [Demo](https://share.streamlit.io/maximilianfreitag/password-generator-streamlit/pass_gen.py)
 
