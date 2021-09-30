@@ -4,7 +4,7 @@ OUTPUT: Gives the user the according password.
 
 <br />
 
-Test it out yourself ---> [Demo](https://share.streamlit.io/maximilianfreitag/password-generator-streamlit/pass_gen.py)
+<h2> Test it out yourself </h2 >---> [Demo](https://share.streamlit.io/maximilianfreitag/password-generator-streamlit/pass_gen.py)
 
 <br />
 
