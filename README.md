@@ -1,5 +1,8 @@
 ## About The Project
-INPUT: Takes the users prefered password length + his preferences OUTPUT: Gives the user the according password. 
+INPUT: Takes the users prefered password length + his preferences 
+OUTPUT: Gives the user the according password. 
+
+<br />
 
 Test it out yourself ---> [Demo](https://share.streamlit.io/maximilianfreitag/password-generator-streamlit/pass_gen.py)
 
