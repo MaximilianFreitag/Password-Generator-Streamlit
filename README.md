@@ -9,15 +9,6 @@ Test it out yourself ---> [Demo](https://share.streamlit.io/maximilianfreitag/pa
 <br />
 
 
-//<p align="center">
-//    <a href="https://github.com/MaximilianFreitag/birthday_calculator">
-//        <img src="https://github.com/MaximilianFreitag/Password-Generator-Streamlit/blob/master/pasword.jpg">
-//    </a>
-//</p>
-
-
-<br />
-
 ![gif](https://user-images.githubusercontent.com/46624616/135414165-2716bc06-09b2-4e33-aa98-a5d4a8c39755.gif)
 
 
