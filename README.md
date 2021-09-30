@@ -9,11 +9,11 @@ Test it out yourself ---> [Demo](https://share.streamlit.io/maximilianfreitag/pa
 <br />
 
 
-#<p align="center">
-#    <a href="https://github.com/MaximilianFreitag/birthday_calculator">
-#        <img src="https://github.com/MaximilianFreitag/Password-Generator-Streamlit/blob/master/pasword.jpg">
-#    </a>
-#</p>
+//<p align="center">
+//    <a href="https://github.com/MaximilianFreitag/birthday_calculator">
+//        <img src="https://github.com/MaximilianFreitag/Password-Generator-Streamlit/blob/master/pasword.jpg">
+//    </a>
+//</p>
 
 
 <br />
