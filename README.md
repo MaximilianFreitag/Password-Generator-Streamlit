@@ -1,5 +1,5 @@
 ## About The Project
-INPUT: Takes the users prefered password length + his preferences 
+INPUT: Takes the users prefered password length + his preferences   <br /> 
 OUTPUT: Gives the user the according password. 
 
 <br />
