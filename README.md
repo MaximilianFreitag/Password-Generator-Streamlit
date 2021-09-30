@@ -6,7 +6,7 @@ OUTPUT: Gives the user the according password.
 
 <h2> Test it out </h2 >  <br> 
 
----> <h4> [Demo](https://share.streamlit.io/maximilianfreitag/password-generator-streamlit/pass_gen.py) </h4>
+---> [Demo](https://share.streamlit.io/maximilianfreitag/password-generator-streamlit/pass_gen.py) 
 
 <br />
 
