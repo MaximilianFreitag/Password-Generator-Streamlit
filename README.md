@@ -9,7 +9,7 @@ OUTPUT: Gives the user the according password.
 ---> [Demo](https://share.streamlit.io/maximilianfreitag/password-generator-streamlit/pass_gen.py) 
 
 <br />
-
+<br />
 
 ![gif](https://user-images.githubusercontent.com/46624616/135414165-2716bc06-09b2-4e33-aa98-a5d4a8c39755.gif)
 
