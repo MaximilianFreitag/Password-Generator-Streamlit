@@ -4,9 +4,9 @@ OUTPUT: Gives the user the according password.
 
 <br />
 
-<h2> Test it out </h2 > ---> <br> 
+<h2> Test it out </h2 >  <br> 
 
-[Demo](https://share.streamlit.io/maximilianfreitag/password-generator-streamlit/pass_gen.py)
+---> <h4> [Demo](https://share.streamlit.io/maximilianfreitag/password-generator-streamlit/pass_gen.py) </h4>
 
 <br />
 
