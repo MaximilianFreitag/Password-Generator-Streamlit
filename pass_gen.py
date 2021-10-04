@@ -25,12 +25,12 @@ st.text(" \n")
 length = st.number_input('How many characters do you want your password to have? (10-100)', min_value=10, max_value=100)
 
 
-st.markdown("<h5 style='text-align: center; color: black;'>                 </h5>", unsafe_allow_html=True)
+st.text(" \n")
 
 
 title = st.write('What should your password include?')
 
-st.markdown("<h5 style='text-align: center; color: black;'>                 </h5>", unsafe_allow_html=True)
+st.text(" \n")
 
 cb1 = st.checkbox('Numbers')
 cb2 = st.checkbox('Letters')
@@ -122,7 +122,8 @@ try:
 except:
         NameError
         st.write(" ")
-st.markdown("<h5 style='text-align: center; color: black;'>                 </h5>", unsafe_allow_html=True)
+        
+st.text(" \n")
 
 try:
         st.code(password)
