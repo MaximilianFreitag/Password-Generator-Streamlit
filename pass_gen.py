@@ -112,11 +112,6 @@ except ValueError and NameError:
 
 
 
-st.text(" \n")
-st.text(" \n")
-
-
-
 try: 
         title2 = st.write(' ')
 except:
@@ -144,6 +139,11 @@ st.text(" \n")
 st.text(" \n")
 st.text(" \n")
 st.text(" \n")
+st.text(" \n")
+st.text(" \n")
+st.text(" \n")
+st.text(" \n")
+
 
 
 
