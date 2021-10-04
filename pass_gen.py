@@ -18,8 +18,8 @@ st.markdown("![Alt Text](https://media.giphy.com/media/GbCDfM8ZaLaHo4F9Vf/giphy.
 
 #Title of your app + one whitespace
 st.markdown("<h1 style='text-align: center; color: black;'>Mnemo password generator </h1>", unsafe_allow_html=True)
-st.markdown("<h5 style='text-align: center; color: black;'>                 </h5>", unsafe_allow_html=True)
-st.markdown("<h5 style='text-align: center; color: black;'>                 </h5>", unsafe_allow_html=True)
+st.text(" \n")
+st.text(" \n")
 
 
 length = st.number_input('How many characters do you want your password to have? (10-100)', min_value=10, max_value=100)
@@ -61,7 +61,7 @@ else:
 if cb1 and cb1 and cb3 == None: 
         st.write("Check")
 
-
+        
         
 all = letters + str(numbers) + symbols
 
@@ -112,11 +112,11 @@ except ValueError and NameError:
 
 
 
+st.text(" \n")
+st.text(" \n")
 
 
 
-st.markdown("<h5 style='text-align: center; color: black;'>                 </h5>", unsafe_allow_html=True)
-st.markdown("<h5 style='text-align: center; color: black;'>                 </h5>", unsafe_allow_html=True)
 try: 
         title2 = st.write(' ')
 except:
@@ -136,16 +136,13 @@ except ValueError and NameError:
 
 
 
-#i used these lines for additional whitespace between the result and the text boxes
-st.markdown("<h5 style='text-align: center; color: black;'>                 </h5>", unsafe_allow_html=True)
-st.markdown("<h5 style='text-align: center; color: black;'>                 </h5>", unsafe_allow_html=True)
-st.markdown("<h5 style='text-align: center; color: black;'>                 </h5>", unsafe_allow_html=True)
-
-
-
-#whitespace again
-st.markdown("<h3 style='text-align: center; color: black;'>                 </h5>", unsafe_allow_html=True)
-st.markdown("<h3 style='text-align: center; color: black;'>                 </h5>", unsafe_allow_html=True)
+        
+st.text(" \n")
+st.text(" \n")
+st.text(" \n")
+st.text(" \n")
+st.text(" \n")
+st.text(" \n")
 
 
 
