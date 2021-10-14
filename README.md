@@ -49,11 +49,13 @@ Your browser will open up with the project. Now you can change my code in Visual
 <br />
 <br />
 
+## License
+This project falls under the MIT license.
+
 
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/MaximilianFreitag/Password-Generator-Streamlit.svg)](https://starchart.cc/MaximilianFreitag/Password-Generator-Streamlit)
 
 
-## License
-This project falls under the MIT license.
+
