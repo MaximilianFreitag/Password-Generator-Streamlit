@@ -49,7 +49,12 @@ Your browser will open up with the project. Now you can change my code in Visual
 <br />
 <br />
 
+Stargazers over time
+--------------------
 
+.. image:: https://starchart.cc/tomislater/RandomWords.svg
+    :target: https://starchart.cc/tomislater/RandomWords
+    :alt: Stargazers over time  
 
 ## License
 This project falls under the MIT license.
