@@ -24,20 +24,23 @@ OUTPUT: Gives the user the according password.
 ## Getting Started
 
 
-1. Pip install in the terminal with
+1. Clone this repo in your Desktop directory
    ```sh
-   !pip install zufallsworte
+   git clone https://github.com/MaximilianFreitag/Password-Generator-Streamlit.git
    ```
 
-<!-- How to use -->
-## How to use
-
-
-2. Import the library with
+2. Change directory into the folder
    ```sh
-   import zufallsworte as zufall
+   cd Password-Generator-Streamlit
    ```
-
+3. Pip install streamlit
+   ```sh
+   pip install streamlit
+   ```
+   
+4. Start the app with
+   ```sh
+   streamlit run app.py
    ```
 
 <!-- Different functions -->
