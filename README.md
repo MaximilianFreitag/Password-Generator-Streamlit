@@ -44,7 +44,7 @@ OUTPUT: Gives the user the according password.
    ```
 
 <!-- Different functions -->
-## Diff
+
 
 <br />
 
