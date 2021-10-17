@@ -24,26 +24,27 @@ OUTPUT: Gives the user the according password.
 ## Getting Started
 
 
-1. Clone the repo
+1. Pip install in the terminal with
    ```sh
-   git clone https://github.com/MaximilianFreitag/Password-Generator-Streamlit.git
+   !pip install zufallsworte
    ```
 
-2. Pip install streamlit in your terminal
+<!-- How to use -->
+## How to use
+
+
+2. Import the library with
    ```sh
-   pip install streamlit
+   import zufallsworte as zufall
    ```
-3. Change directory into the project
-   ```sh
-   cd Password-Generator-Streamlit
+
    ```
-4. Run the python file with: 
-   ```sh
-   streamlit run pass_gen.py 
-   ```
+
+<!-- Different functions -->
+## Diff
+
 <br />
 
-Your browser will open up with the project. Now you can change my code in Visual Studio code and it will auto rerun the app as soon as you make adjustments.
 
 <br />
 <br />
@@ -53,9 +54,7 @@ Your browser will open up with the project. Now you can change my code in Visual
 This project falls under the MIT license.
 
 
-## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/MaximilianFreitag/Password-Generator-Streamlit.svg)](https://starchart.cc/MaximilianFreitag/Password-Generator-Streamlit)
 
 
 
