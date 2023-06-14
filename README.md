@@ -67,6 +67,8 @@ OUTPUT: Gives the user the according password.
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+[![All Contributors](https://img.shields.io/github/all-contributors/projectOwner/projectName?color=ee8449&style=flat-square)](#contributors)
+
 ## License
 This project falls under the MIT license.
 
